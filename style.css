@@ -1,0 +1,59 @@
+body {
+    font-family: monospace;
+    background-color: #2F4F4F;
+    color: black;
+}
+
+header {
+    text-align: center;
+    margin-top: auto;
+    text-transform: uppercase;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+h1 {
+  font-size: 38px;
+  padding: 15px;
+  background-color:#006400;
+  color: black;
+}
+
+h2 {
+  font-size: 25px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 23px;
+  padding: 50%;
+  text-transform: uppercase;
+}
+
+th {
+  border: 2px solid #8B0000
+}
+
+table {
+  text-align: center;
+  margin: 40px auto;
+}
+.container {
+    max-width: fit-content;
+    margin: auto;
+    height: auto;
+}
+
+td {
+    width: auto;
+    border: 2px solid #8B0000
+}
+
+.left {
+  width: auto;
+}
